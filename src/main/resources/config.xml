@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<system name="syslog system" path="" classname="cn.com.venustech.eventserver.reader.syslog.SyslogGetService" protocol="50" generalization="cn.com.venustech.eventserver.reader.syslog.SysLogGeneralization" port="5141"/>
+</config>
